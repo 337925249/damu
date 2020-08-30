@@ -1,2 +1,4 @@
 hello laofu
 hello laofu space
+hello laofu space2
+space 和 space2 都要
